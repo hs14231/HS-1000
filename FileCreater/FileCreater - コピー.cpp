@@ -91,4 +91,4 @@ BOOL CFileCreaterApp::InitInstance()
 	//  アプリケーションを終了するために FALSE を返してください。
 	return FALSE;
 }
-
+//sdfadafasdfa
