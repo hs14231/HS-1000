@@ -1,0 +1,33 @@
+﻿2016/10/17 13:04:51 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\FileCreater\FileCreater.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\FileCreater.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FileCreater.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FileCreaterDlg.cpp
+         FileCreaterDlg.cpp
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0411" /IDebug\ /nologo /fo"Debug\FileCreater.res" FileCreater.rc 
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Debug\FileCreater.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\FileCreater.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Debug\FileCreater.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Debug\FileCreater.lib" /MACHINE:X86 Debug\FileCreater.res
+         Debug\FileCreater.exe.embed.manifest.res
+         Debug\CmnFile.obj
+         Debug\FileCreater.obj
+         Debug\FileCreaterDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FileCreater.exe.embed.manifest" /manifest Debug\FileCreater.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         FileCreater.vcxproj -> C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Debug\FileCreater.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\FileCreater.unsuccessfulbuild" を削除しています。
+         "Debug\FileCreater.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\FileCreater\FileCreater.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.15

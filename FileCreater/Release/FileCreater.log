@@ -1,0 +1,29 @@
+﻿2016/10/17 13:04:47 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\FileCreater\FileCreater.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\FileCreater.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\FileCreater.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FileCreaterDlg.cpp
+         FileCreaterDlg.cpp
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0411" /IRelease\ /nologo /fo"Release\FileCreater.res" FileCreater.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Release\FileCreater.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\FileCreater.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Release\FileCreater.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Release\FileCreater.lib" /MACHINE:X86 Release\FileCreater.res
+         Release\CmnFile.obj
+         Release\FileCreater.obj
+         Release\FileCreaterDlg.obj
+         Release\stdafx.obj
+         コード生成しています。
+         コード生成が終了しました。
+         FileCreater.vcxproj -> C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Release\FileCreater.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\Release\FileCreater.exe;#1" /manifest Release\FileCreater.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         ファイル "Release\FileCreater.unsuccessfulbuild" を削除しています。
+         "Release\FileCreater.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\hs94521\Documents\Visual Studio 2010\Projects\FileCreater\FileCreater\FileCreater.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.45
