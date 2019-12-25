@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int Function(int Arg)
+int Function(int Arg )
 {
     printf("Hello, world!\n");
     
@@ -24,6 +24,20 @@ int Function(int Arg)
     for(int i=0;i<10;i++)
     {
         i = (k++) + l;
+    }
+    
+    int waitflag = 0;
+    While(1)
+    {
+        //遅延ループ
+        Sleep(100);
+        if(waitflag == true)
+        {
+            waitflag = getwaitflag();
+            break;
+        }
+        
+    
     }
     
     return Arg;
